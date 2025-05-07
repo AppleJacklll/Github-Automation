@@ -1,2 +1,2 @@
 # Github-Automation
-This repository automate the github actions and create an google sheet
+This repository automate the github issues and create an google sheet
